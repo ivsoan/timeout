@@ -16,10 +16,8 @@
 1.  **Clone the project from GitHub:**
 
     ```bash
-    git clone <Your GitHub Repository URL>
+    git clone https://github.com/ivsoan/timeout.git
     ```
-
-    Replace `<Your GitHub Repository URL>` with your actual repository address.  For example: `git clone https://github.com/yourusername/timeout-0.0.1.git`
 
 2.  **Navigate to the `timeout-0.0.1` directory:**
 
