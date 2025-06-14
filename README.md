@@ -2,7 +2,7 @@
 
 **Introduction**
 
-`timeout-0.0.1` is a Python library that provides an easy-to-use `@timeout()` decorator to add timeout limits to any Python function. If the function does not complete execution within the specified time, it will be forcibly terminated and a `TimeoutError` exception will be raised. The library leverages the `multiprocessing` module to safely terminate timed-out functions without blocking the main process.
+`timeout` is a Python library that provides an easy-to-use `@timeout()` decorator to add timeout limits to any Python function. If the function does not complete execution within the specified time, it will be forcibly terminated and a `TimeoutError` exception will be raised. The library leverages the `multiprocessing` module to safely terminate timed-out functions without blocking the main process.
 
 **Features**
 
