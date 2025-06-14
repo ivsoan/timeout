@@ -22,7 +22,7 @@
 2.  **Navigate to the `timeout-0.0.1` directory:**
 
     ```bash
-    cd timeout-0.0.1
+    cd ./timeout/timeout-0.0.1
     ```
 
 3.  **Install using `pip`:**
